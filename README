@@ -1,0 +1,6 @@
+1.Dynamic graphics section:
+    a.Two modes:one draw separately with four data at most, and another draw data in one area
+    b.With legend and diffirent color
+
+2.Data record in sqlite database using thread
+3.Maximum of groups is 8

@@ -1,0 +1,5 @@
+digraph "classes" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{Real_time.Ui_MainWindow|Baudrate_comboBox\lMode1\lMode2\lNumberComboBox\lPAUSE\lReal_time_graph\lSTART\lcentralwidget\lgridLayout\lgridLayout_2\llabel\llabel_2\llabel_4\lmenuFilws\lmenubar\lport_list\lsplitter\lsplitter_2\lsplitter_4\lstatusbar\ltextEdit\ltextEdit_2\l|retranslateUi(MainWindow)\lsetupUi(MainWindow)\l}", shape="record"];
+}
